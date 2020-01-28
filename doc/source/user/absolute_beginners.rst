@@ -1165,7 +1165,7 @@ can reverse the contents of the row at index position 1 (the second row)::
   >>> print(arr_2d)
   Reversed Array:
     [[ 1  2  3  4]
-     [ 5  6  7  8]
+     [ 8  7  6  5]
      [ 9 10 11 12]]
 
 You can also reverse the column at index position 1 (the second column)::
@@ -1176,7 +1176,7 @@ You can also reverse the column at index position 1 (the second column)::
   >>> print(arr_2d)
   Reversed Array:
     [[ 1 10  3  4]
-     [ 5  6  7  8]
+     [ 8  7  6  5]
      [ 9  2 11 12]]
 
 Read more about reversing arrays at `flip`.
